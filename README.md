@@ -48,3 +48,12 @@ I have learned through this assignment is:-
 1. Java Contructor:- I explored the different types of constructors, including default and parameterized constructors, and understood their role in initializing objects.
 2. Instance vs. Class Variables:- I learned the distinction between instance variables (specific to each object) and class variables (shared across all instances of a class), and how they are used in object-oriented programming.
 3. Access Modifiers:- I gained a solid understanding of access modifiers like private, protected, public, and default, and how they control the visibility and accessibility of class members.
+
+---
+
+Day-15 -> 04-02-2025 : Assignment 9 aasigned on 03-02-2025 on this, static, final key words and instanceof operator completed and submitted. I have learned through this assignment is:-
+
+Static:- for shared values and utility methods to reduce memory usage and avoid redundancy.
+this:- to avoid ambiguity when initializing attributes.
+final:- for identifiers or constants that should remain unchanged
+instanceof:- for safe type-checking and to prevent runtime errors during typecasting.
