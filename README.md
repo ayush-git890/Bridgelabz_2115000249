@@ -66,3 +66,5 @@ Static keyword:- for shared values and utility methods to reduce memory usage an
 this keyword:- to avoid ambiguity when initializing attributes.
 final keyword:- for identifiers or constants that should remain unchanged
 instanceof keyword:- for safe type-checking and to prevent runtime errors during typecasting.
+
+Day-10 -> Assignment 10 assigned on 04-02-2025 on the Concept of OOD - Object oriented design. In which I have made UML (class diasgram, sequence diagram & object diagram) diagram for different scenerios and also design a relation between classes usind code as well...
